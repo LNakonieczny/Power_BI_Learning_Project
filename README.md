@@ -6,9 +6,9 @@ Main file is the AdventureWorks_Report_LN_Learning_Project.pbix, it contains rep
 
 Technical steps in the project:
 -	loading data from the sources and cleaning,
--	shaping connections between data table to build data model,
+-	shaping connections between data tables to build data model,
 -	adding calculated columns and measures,
 -	building visualizations,
--	choosing appropriate visualization to build report.
+-	choosing appropriate visualizations to build report.
 
  
